@@ -1,4 +1,5 @@
-# 		👋 Hi, I’m @Sithila-Sihan-Somaratne. A young and passionate software engineering student from Italy
+                          # 👋 Hi, I’m @Sithila-Sihan-Somaratne. 
+                          A young and passionate software engineering student from Italy
 
 - 👀 I’m interested in programming, creating websites, desktop applications and many more.
 - 🌱 I’m currently learning at iCET
