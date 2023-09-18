@@ -27,7 +27,7 @@
 
 ![ Sithila-Sihan-Somaratne 's GitHub stats](https://camo.githubusercontent.com/958b01dc61e8fc70633e86f7636ee9daec9e8720eda9d4149ab88aaf9f4abb7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53697468696c612d536968616e2d536f6d617261746e652673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithila-Sihan-Somaratne&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Sithila-Sihan-Somaratne/Sithila-Sihan-Somaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
