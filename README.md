@@ -25,8 +25,7 @@
 <a href="https://reactnative.dev/"><img src="https://www.geekandjob.com/uploads/wiki/970f29ff48f60141f46571e231a5f53e.png" width="65" height="50" alt="React Native"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"  width="50" height="50" alt="Spring Boot"></a>
 
-![ Sithila-Sihan-Somaratne 's GitHub stats](https://camo.githubusercontent.com/958b01dc61e8fc70633e86f7636ee9daec9e8720eda9d4149ab88aaf9f4abb7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53697468696c612d536968616e2d536f6d617261746e652673686f775f69636f6e733d74727565267468656d653d7261646963616c)
-
+![Sithila Sihan Somaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithila-Sihan-Somaratne&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithila-Sihan-Somaratne&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Sithila-Sihan-Somaratne/Sithila-Sihan-Somaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
