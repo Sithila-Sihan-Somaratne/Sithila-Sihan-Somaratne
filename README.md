@@ -17,10 +17,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50" alt="JavaScript"></a>
 <a href="https://jquery.com/"><img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png" width="50" height="50" alt="jQuery"></a>
 <a href="https://www.mysql.com/"><img src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" width="50" height="40" alt="MySQL"></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" alt="Python"></a>
-<a href=""><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"  width="50" height="50" alt="Spring Boot"></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" alt="Python"></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"  width="50" height="50" alt="Spring Boot"></a>
 
-
+![ Sithila-Sihan-Somaratne 's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 <!---
 Sithila-Sihan-Somaratne/Sithila-Sihan-Somaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
