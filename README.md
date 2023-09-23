@@ -17,6 +17,7 @@
 <a href="https://www.java.com/en/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="50" height="50" alt="Java"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50" alt="JavaScript"></a>
 <a href="https://jquery.com/"><img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png" width="50" height="50" alt="jQuery"></a>
+<a href="https://maven.apache.org/"><img src="https://www.geekandjob.com/uploads/wiki/2d566b6a7ba7918a504e60402840478287aa32ab.png" width="80" height="30" alt="Maven"></a>
 <a href="https://www.mysql.com/"><img src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" width="50" height="40" alt="MySQL"></a>
 <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60" height="40" alt="Node js"></a>
 <a href="https://www.postman.com/"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" alt="Postman"></a>
