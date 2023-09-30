@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I’m Sithila Sihan Somaratne.</h1>
+<h1 align="center">👋 Hi, I’m Sithila Sihan Somaratn!</h1>
 
-<h3 align="center">A young and passionate software engineering student from Italy.</h3>
+<h3 align="center">A young and passionate software engineering student from Italy!</h3>
 
 
 - 👀 I’m interested in programming, creating websites, desktop applications and many more.
-- 🌱 I’m currently learning at iCET
+- 🌱 I’m currently learning at iCET.
 - 📫 How to reach me: sithi.ss23@gmail.com
 
 <h4>Languages and Tools</h4>
