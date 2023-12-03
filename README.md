@@ -22,8 +22,6 @@
 <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60" height="40" alt="Node js"></a>
 <a href="https://www.postman.com/"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" alt="Postman"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" alt="Python"></a>
-<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60" height="50" alt="React"></a>
-<a href="https://reactnative.dev/"><img src="https://www.geekandjob.com/uploads/wiki/970f29ff48f60141f46571e231a5f53e.png" width="65" height="50" alt="React Native"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"  width="50" height="50" alt="Spring Boot"></a>
 <a href="https://www.typescriptlang.org/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50" height="50" alt = "TypeScript"></a>
 
