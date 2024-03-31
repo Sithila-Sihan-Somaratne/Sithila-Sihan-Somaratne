@@ -22,7 +22,7 @@
 <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="60" height="40" alt="Node js"></a>
 <a href="https://www.postman.com/"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" alt="Postman"></a>
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" alt="Python"></a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" width="60" height="50" alt="Spring Boot"></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" width="60" height="40" alt="Spring Boot"></a>
 <a href="https://www.typescriptlang.org/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50" height="50" alt = "TypeScript"></a>
 
 ![Sithila Sihan Somaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithila-Sihan-Somaratne&show_icons=true&theme=dark)
