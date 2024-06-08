@@ -26,7 +26,7 @@
 <a href="https://spring.io/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" width="50" height="50" alt="Spring Boot"></a>
 <a href="https://www.typescriptlang.org/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50" height="50" alt = "TypeScript"></a>
 
-![Sithila Sihan Somaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithila-Sihan-Somaratne&show_icons=true&theme=dark)
+![Sithila Sihan Somaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithila-Sihan-Somaratne&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithila-Sihan-Somaratne&layout=pie)
 <!---
 Sithila-Sihan-Somaratne/Sithila-Sihan-Somaratne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
