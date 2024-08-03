@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in programming, creating websites, desktop applications and many more.
 - 🌱 I’m currently learning online.
-- 📫 How to reach me: sithi.ss23@gmail.com
+- 📫 How to reach me: sithisomaratne23@gmail.com
 
 <h4>Languages and Tools</h4>
 <a href="https://angular.io/"><img src="https://www.elbuild.it/assets/img/techs/angular.png" width="50" height="50" alt="Angular"></a>
